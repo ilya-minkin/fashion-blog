@@ -1,0 +1,20 @@
+{
+  "name": "fashion-e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "scss",
+    "tailwindcss"
+  ],
+  "author": "Ilya <shadowpounce@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
